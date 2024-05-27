@@ -2,7 +2,7 @@
 - **Youtube VIDEO** for local setup of this project: https://www.youtube.com/watch?v=7CE3aY4e644
 - **Youtube VIDEO** for Local Setup of similar project : https://youtu.be/mLFPodZO8Iw
 ### Login Credentials:
-	User Login: shashi@gmail.com/shashi
+	User Login: lakshmi@gmail.com/
 	Admin Login: Admin/Admin
 Whenever a company  requires a service / merchandise , a tender is floated. Company maintains an empaneled list of Vendors. An empaneled vendor can only bid for a tender. Every vendor can bid only once against   each tender. Against each tender there may be   bids from several vendors. The company will then select the most suitable bid and places the order to that vendor.
 <!--
@@ -56,7 +56,7 @@ LIVE NOW &#x1F534
 - 
 ### ========== Dummy Database Initialization USing SQLDUMP =====================
 
-STEPS: If you want to create table structure with dummy database, then follow the Steps given <a target="_blank" href="https://github.com/shashirajraja/Tender-Management-System/blob/master/DataBase/how-to-import-sql-dump-file.md">Here Inside DataBase/how-to-import-sql-dump-file</a>
+STEPS: If you want to create table structure with dummy database, then follow the Steps given <a target="_blank" href="https://github.com/java projects/Tender-Management-System/blob/master/DataBase/how-to-import-sql-dump-file.md">Here Inside DataBase/how-to-import-sql-dump-file</a>
 
 ### ================= Dummy Database Initialization USING QUERY =================
 
@@ -127,12 +127,5 @@ Step 6: Check Running The Site At  <a Href="http://localhost:8083/tendermanageme
 
 Step 7: Default Username And Password For Admin Is "Admin" and "Admin" respectively. [Case-Sensitive]
 
-Step 8: Default Username And Password For User Is "shashi@gmail.com" and "shashi" respectively.
-
-
-
+Step 8: Default Username And Password For User Is "lakshmi@gmail.com" and "lakshmi" respectively.
 #### "Suggestions and project Improvements are always Invited!"
-
-<bold>Thanks a lot</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
